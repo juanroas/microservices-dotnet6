@@ -1,2 +1,4 @@
 ﻿GeekShopping.ProductAPI/bin
 GeekShopping.Web/obj
+.vs
+GeekShopping.ProductAPI/obj
